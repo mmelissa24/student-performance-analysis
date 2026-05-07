@@ -58,11 +58,11 @@ student-performance-analysis/
 
 This project answers questions such as:
 
-What is the average final grade by course?
-How many students passed of fail?
-Which students are at risk of failing?
-What is the average number of study hours by course?
-Is there a relationship between study hours and final grade?
+- What is the average final grade by course?
+- How many students passed of fail?
+- Which students are at risk of failing?
+- What is the average number of study hours by course?
+- Is there a relationship between study hours and final grade?
 
 # Visualizations
 
